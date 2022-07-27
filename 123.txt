@@ -1,2 +1,0 @@
-let variavel0 = 0
-console.log(variavel0)
