@@ -1,4 +1,4 @@
-// Pratica 3 ... Utilizando IF ELSE
+// Pratica 3 ... Utilizando o comparador
 
 // Declarando as variáveis
 let nome = "Anderson Luz"
@@ -7,18 +7,18 @@ let profissao = "Técnico Manutenção"
 let idade = 35
 let localDoSonho = "Grécia"
 
-// Imprimindo a comparação do nome
+// Imprimindo o resultado da comparação do nome
 console.log(typeof nome == "string")
 
-// Imprimindo a comparação do email
+// Imprimindo o resultado da comparação do email
 console.log(typeof email == "string")
 
-// Imprimindo a comparação da profissao
+// Imprimindo o resultado da comparação da profissao
 console.log(typeof profissao == "string")
 
-// Imprimindo a comparação da idade
+// Imprimindo o resultado da comparação da idade
 console.log(typeof idade == "string")
 
-// Imprimindo a comparação do localDoSonho
+// Imprimindo o resultado da comparação do localDoSonho
 console.log(typeof localDoSonho == "string")
 
