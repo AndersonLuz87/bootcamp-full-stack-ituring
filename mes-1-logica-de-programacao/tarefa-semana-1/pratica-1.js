@@ -6,3 +6,14 @@ let profissao = "Técnico Manutenção"
 let idade = 35
 let localDoSonho = "Grécia"
 
+//Imprimindo as variáveis declaradas
+
+console.log(typeof nome, nome) 
+console.log(typeof email, email)
+console.log(typeof profissao, profissao)
+console.log(typeof idade, idade)
+console.log(typeof localDoSonho, localDoSonho)
+
+
+
+ 
