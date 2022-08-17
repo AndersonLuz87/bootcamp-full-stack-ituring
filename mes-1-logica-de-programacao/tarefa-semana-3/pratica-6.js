@@ -3,15 +3,17 @@
 function serie (lista, busca){
 
     let listaFiltrada = []
+    let indice = 0
   
     for (let i = 0; i < lista.length ; i ++){
-
+        
         if (lista[i].includes(busca)){
 
-           listaFiltrada[i] = lista[i]
-           
-        }
-    }
+           listaFiltrada[indice] = lista[i]
+           indice ++
+        } 
+        
+    } 
    
     return listaFiltrada 
 }
