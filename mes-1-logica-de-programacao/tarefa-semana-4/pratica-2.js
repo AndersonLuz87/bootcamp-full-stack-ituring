@@ -9,7 +9,7 @@ function buscarSeriado (lista,termoDeBusca){
         resultadoDaBusca = lista.indexOf(item); 
    
   });
-    return resultadoDaBusca
+    return resultadoDaBusca;
 }
 
 console.log(buscarSeriado(["Breaking Bad", "Game of Thrones", "Stranger Things", "Chernobyl", "Dexter", "The Last Dance", "This is Us"], "Dexter"));
