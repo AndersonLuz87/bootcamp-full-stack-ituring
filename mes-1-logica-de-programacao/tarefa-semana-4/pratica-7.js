@@ -5,6 +5,7 @@ function exibeChave (objeto){
    return chaveObjeto;
 }
 
+
 let objeto1 = exibeChave({
     marca: "Tramontina",
     produto: "Jogo de talheres",
